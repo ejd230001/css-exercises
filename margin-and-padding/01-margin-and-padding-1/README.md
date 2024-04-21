@@ -4,6 +4,24 @@ For this first exercise, simply edit the `style.css` file so that the divs look 
 
 ![outcome](./desired-outcome.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Self-check 
 Use this section to check your work. On _these_ projects, your goal isn't to attain 100% pixel perfection, but to use the tools you've learned to get relatively close to the desired output.
 
